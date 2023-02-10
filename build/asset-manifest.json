@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75838bf7.css",
+    "main.js": "/static/js/main.e247d4de.js",
+    "static/media/picture.jpg": "/static/media/picture.cffba783a8ef59134d7c.jpg",
+    "static/media/backgroundWith.png": "/static/media/backgroundWith.33827ab7717cae2f081d.png",
+    "static/media/mainBack.png": "/static/media/mainBack.c7c54c22e1c406678fc9.png",
+    "static/media/formBack.png": "/static/media/formBack.1ee9265ad33639cd9bde.png",
+    "static/media/footerBack.png": "/static/media/footerBack.a50c3dbf701991e59d13.png",
+    "static/media/foot.svg": "/static/media/foot.37076a3758876faac7805b0885a8138a.svg",
+    "static/media/mandalaDecor.svg": "/static/media/mandalaDecor.5ef32945fe2127a282cea9c5a5ba233f.svg",
+    "static/media/FAQsBackground.png": "/static/media/FAQsBackground.b7c05a02b25f0ddcbae5.png",
+    "static/media/bookWithMeMandala.svg": "/static/media/bookWithMeMandala.0e31391b1a193d5cf69fdffc9341d7ee.svg",
+    "static/media/rightFormDecor.png": "/static/media/rightFormDecor.73f9c7b8f5e3f1882d16.png",
+    "static/media/leftFormDecor.png": "/static/media/leftFormDecor.13cd60aaed4a02322912.png",
+    "static/media/mainBackWithoutMandala.png": "/static/media/mainBackWithoutMandala.32e21831af3dcfca70f9.png",
+    "static/media/rightQualif.svg": "/static/media/rightQualif.1166b8214a8c6f6e0e94.svg",
+    "static/media/leftQualif.svg": "/static/media/leftQualif.e18d157a7aa2bc46258b.svg",
+    "static/media/leaves.svg": "/static/media/leaves.f29ae084caf119dd41cfa7a1767a2b03.svg",
+    "static/media/benefitsLogo.svg": "/static/media/benefitsLogo.82c508f43e16876ce3973d4fe181fef8.svg",
+    "static/media/logo.svg": "/static/media/logo.41476bed5121452acdcb9a3d0e387159.svg",
+    "static/media/leaf.svg": "/static/media/leaf.8165987f78334795989f8b93272d7026.svg",
+    "static/media/leftDoubleQuotes.svg": "/static/media/leftDoubleQuotes.ed14fb38832322bd73ef49734ec83ee7.svg",
+    "static/media/rightDoubleQuotes.svg": "/static/media/rightDoubleQuotes.4ad71691b732aeb13d7277924e836101.svg",
+    "index.html": "/index.html",
+    "static/media/rightDecor.svg": "/static/media/rightDecor.ee9a87d3a3b5afbdc58fc9cc5f2e8132.svg",
+    "static/media/leftDecor.svg": "/static/media/leftDecor.cccc38f8fc93cea2627219f85c54c53e.svg",
+    "main.75838bf7.css.map": "/static/css/main.75838bf7.css.map",
+    "main.e247d4de.js.map": "/static/js/main.e247d4de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75838bf7.css",
+    "static/js/main.e247d4de.js"
+  ]
+}
